@@ -1,0 +1,2 @@
+repo = "portable-simd"
+filter = ":rev(<=324e366b686dbbad63120ee613e07e2cdcc6579c:prefix=library/portable-simd):/library/portable-simd"
